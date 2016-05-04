@@ -1,0 +1,1 @@
+java -jar E-HITS.jar 06_nodes_o_ad.txt 06_edges_o_ad.txt
