@@ -1,0 +1,1 @@
+java -jar E-HITS.jar>result.txt
